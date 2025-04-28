@@ -1,7 +1,6 @@
-
-
 streamlit
+yfinance
 pandas
 numpy
-yfinance
+matplotlib
 fredapi
