@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+pandas-datareader  # Try the latest version again
+numpy
+setuptools --upgrade
+pip --upgrade
