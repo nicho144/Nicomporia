@@ -1,6 +1,0 @@
-streamlit
-yfinance
-pandas
-pandas-datareader>=0.10.0  # Explicitly request a more recent version
-numpy
-packaging
