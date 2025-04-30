@@ -1,7 +1,0 @@
-streamlit==1.20.0  # Try an older version, adjust as needed
-yfinance
-pandas>=2.0.0
-pandas-datareader
-numpy>=1.24.0
-setuptools>=60.0.0
-pip>=24.0
